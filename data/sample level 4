@@ -5,7 +5,7 @@
     "creators": ["UNDER6CORE"],
     "verifier": "UNDER6CORE",
     "verification": "",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {

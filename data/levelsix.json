@@ -1,1 +1,18 @@
-
+{
+    "id": 132893840,
+    "name": "Crack The Nightmare",
+    "author": "Glovv",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Glovv",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "idk",
+            "link": "",
+            "percent": 100,
+            "hz": 69420
+        }
+    ]
+}

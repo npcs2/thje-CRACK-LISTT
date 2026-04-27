@@ -8,5 +8,11 @@
     "percentToQualify": "55",
     "password": "Free To Copy",
     "records": [
+                {
+            "user": "UNDER6CORE",
+            "link": "",
+            "percent": 55,
+            "hz": 60
+        }
     ]
 }
